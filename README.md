@@ -1,1 +1,1 @@
-# CodeClauseInternship_ProjectName
+# CodeClauseInternship_Fake_News_Detection
